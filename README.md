@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **amr.shams2015.as@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
