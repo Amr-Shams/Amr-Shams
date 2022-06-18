@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **FWD**
 
-- 🌱 I’m currently learning **NodeJs, LFS**
+- 🌱 I’m currently learning **DevOps, LFS**
 
 - 💬 Ask me about **C++, problem solving**
 
