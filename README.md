@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FWD**
+- 🔭 I’m currently working on **PS plus Valotile memory **
 
-- 🌱 I’m currently learning **DevOps, LFS**
+- 🌱 I’m currently learning **AI, Algorithims**
 
-- 💬 Ask me about **C++, problem solving**
+- 💬 Ask me about **C++, problem solving,Python, OS, semaphores**
 
 - 📫 How to reach me **amr.shams2015.as@gmail.com**
 
-- ⚡ Fun fact **Me**
+- ⚡ Fun fact **most probelm solving problems are not real**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
