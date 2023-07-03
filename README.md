@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently an intern on **Bitnine**
 
+- 👨‍💻 I'm contributor to open source (SOB)
+
 - 🌱 I’m currently learning **AI, Algorithims**
 
 - 💬 Ask me about **C++, problem solving,Python, OS, semaphores**
