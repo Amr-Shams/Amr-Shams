@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI, Algorithims**
 
-- 💬 Ask me about **C++, problem solving,Python, OS, semaphores**
+- 💬 Ask me about **C++, problem solving,Python, OS, Postgresql, Apache Age**
 
 - 📫 How to reach me **amr.shams2015.as@gmail.com**
 
