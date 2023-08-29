@@ -1,14 +1,27 @@
 <h1 align="center">Hi 👋, I'm Amr Shams</h1>
 <h3 align="center">A passionate software developer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr-shams&label=Profile%20views&color=0e75b6&style=flat" alt="amr-shams" /> </p>
 
-- 📝 I regularly write articles on [https://dev.to/nightbird07](https://dev.to/nightbird07)
+- 📝 I regularly write articles on [Blogs](https://dev.to/nightbird07)
 
 - 📫 How to reach me **amr.shams2015.as@gmail.com**
 
+- 🔭 I’m currently an intern at Bitnine
+
+- 👨‍💻 I'm a contributor to open source (SOB)
+
+- 🌱 I’m currently learning AI, Algorithms
+
+- 💬 Ask me about C++, problem-solving, Python, OS, Postgresql, Apache Age
+  
+- ⚡ Fun fact Most problem-solving problems are not real
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nulls are equal in distinct but inequal in unique](https://dev.to/nightbird07/nulls-are-equal-in-distinct-but-inequal-in-unique-52me)
+- [PostgreSQL Optimization: A Quick Tip on Using Values Expression](https://dev.to/nightbird07/postgresql-optimization-a-quick-tip-on-using-values-expression-2fce)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
