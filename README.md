@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amr-shams&show_icons=true&locale=en" alt="amr-shams" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amr-shams&" alt="amr-shams" /></p>
+
