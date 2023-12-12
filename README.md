@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **amr.shams2015.as@gmail.com**
 
-- 🔭 I’m currently an intern at Bitnine
+- 🔭 I’m currently an intern at Siemens
 
 - 👨‍💻 I'm a contributor to open source (SOB)
 
