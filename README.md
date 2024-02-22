@@ -20,8 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Real World Examples on index and how a simple change would make a huge difference](https://dev.to/nightbird07/index-optimization-in-database-query-performance-guidelines-and-real-world-examples-4f80)
 - [Nulls are equal in distinct but inequal in unique](https://dev.to/nightbird07/nulls-are-equal-in-distinct-but-inequal-in-unique-52me)
 - [PostgreSQL Optimization: A Quick Tip on Using Values Expression](https://dev.to/nightbird07/postgresql-optimization-a-quick-tip-on-using-values-expression-2fce)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
